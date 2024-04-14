@@ -95,7 +95,7 @@ A fixed size of (224 * 224) RGB image was given as input to this network which m
 This whole Project is Deployed using Flask
 
 
-# Hi, I'm Vishvanath ! 👋
+# Hi, I'm Samarthbpat ! 👋
 
 
 ## 🔗 Links
