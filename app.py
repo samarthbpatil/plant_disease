@@ -5,6 +5,8 @@ import joblib
 import numpy as np
 from sklearn.svm import SVC
 from keras.models import load_model
+from werkzeug.urls import url_quote
+
 
 #load model
 model_corn =load_model("AG_Corn_Plant_VGG19 .h5")
